@@ -30,3 +30,9 @@
 *.exe
 *.out
 *.app
+
+# Misc
+TAGS
+build.linux
+build/
+output/
